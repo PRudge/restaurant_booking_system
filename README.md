@@ -36,6 +36,7 @@ npm start
 1. Separate files by introducing more folders (for containers and components).
 2. Plan for states/props ahead of time. In the end, we lifted states higher but had we done it at the start, 
 we would save some time refactoring.
+3. Name the files better. Better folder structure would've helped massively here. It was quite confusing to navigate through all components/containers in one folder.
 
 ## Next Steps, if we'd have more time:
 1. Finish the project extensions.
